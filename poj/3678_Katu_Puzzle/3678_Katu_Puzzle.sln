@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3678_Katu_Puzzle", "3678_Katu_Puzzle\3678_Katu_Puzzle.vcproj", "{4F633D0F-B31E-4FEB-9419-F931B3C91B80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F633D0F-B31E-4FEB-9419-F931B3C91B80}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4F633D0F-B31E-4FEB-9419-F931B3C91B80}.Debug|Win32.Build.0 = Debug|Win32
+		{4F633D0F-B31E-4FEB-9419-F931B3C91B80}.Release|Win32.ActiveCfg = Release|Win32
+		{4F633D0F-B31E-4FEB-9419-F931B3C91B80}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
